@@ -1,0 +1,6 @@
+framework module Pods_SampleMapKitTests {
+  umbrella header "Pods-SampleMapKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
